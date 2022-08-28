@@ -28,5 +28,5 @@ else if(c>=b&&c>=a)
         else
             num2=a;
     }
-    printf("SUM IS : %d", num1+num2);
+    printf("%d %d", num1,num2);
  }

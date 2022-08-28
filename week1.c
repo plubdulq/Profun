@@ -12,6 +12,6 @@ scanf("%d", &n);
 do
 {
      i++;
-         printf("*");
+     printf("*");
 }while(i<n);
  }

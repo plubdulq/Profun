@@ -15,12 +15,11 @@ do
         if(i==20)
         {
             printf("%d", a);
-            break;
+            i++;
         }
         else if(i!=20)
         {
             i++;
-
         }
     }
 
