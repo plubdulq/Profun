@@ -13,7 +13,7 @@ remain = 500-cost;
 printf("remain = %d\n", remain);
 for(int i=0;i<=5;i++)
     {
-     scanf("%d", &A[i]);
+     scanf("%d", &A[i]);    //เราต้องใส่ 100 50 20 10 5 1 ตามลำดับ
     }
 for(int i=0;i<=5;)
     {
