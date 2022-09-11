@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+//นายภาสกร พลแสน 65010833
 int main() {
 char input[100];
 int a=0,b=0;
